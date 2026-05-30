@@ -37,4 +37,6 @@ v1.2 (CURRENT): Introduced Net Worth tracking and Diamond forging mechanics.
 
 v1.0: Initial engine release with basic clicking functionality.
 __________________________________
-Built by the Azure. Happy clicking!
+Video:https://www.youtube.com/watch?v=tN3si3eAW1E
+__________________________________________________
+made by Azure
